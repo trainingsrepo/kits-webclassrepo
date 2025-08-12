@@ -1,0 +1,7 @@
+types of accounts
+Savings
+Current
+Salary[A[A[C Acct.[B[D[D[D[D[DAcct.[B[D[D[D[D[DAcct.
+Fixed Deposit Acct.
+DEMAT Acct.
+NRI Acct.
